@@ -8,6 +8,10 @@ namespace ConsoleApp4
 {
     internal class Class1
     {
+        private static void Mnozenje()
+        {
+            return;
+        }
     }
 }
 // daa
